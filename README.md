@@ -2,6 +2,8 @@
 
 Github Repository 내애서 파일 검색이 가능한 알프레드 워크플로우
 
+https://user-images.githubusercontent.com/33277426/128671417-1b4f2ccc-9b9d-4882-b41d-cbd958fcfb1a.mov
+
 ## Environment Variables
 
 `.env.sample` 파일을 `.env` 로 복사하여 ↓ `GITHUB_TOKEN`, `GITHUB_TOKEN` 설정이 필요
