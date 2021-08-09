@@ -79,7 +79,7 @@
 				<key>runningsubtext</key>
 				<string>검색중...</string>
 				<key>script</key>
-				<string>~/.anyenv/envs/nodenv/shims/node index.js "$1"</string>
+				<string>~/.anyenv/envs/nodenv/shims/node src/index.js "$1"</string>
 				<key>scriptargtype</key>
 				<integer>1</integer>
 				<key>scriptfile</key>
