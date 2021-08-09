@@ -2,7 +2,7 @@
 
 Github Repository 내애서 파일 검색이 가능한 알프레드 워크플로우
 
-https://user-images.githubusercontent.com/33277426/128671417-1b4f2ccc-9b9d-4882-b41d-cbd958fcfb1a.mov
+https://user-images.githubusercontent.com/33277426/128671730-b00c2319-290c-4aec-88af-7c08271d22dd.mov
 
 ## Environment Variables
 
